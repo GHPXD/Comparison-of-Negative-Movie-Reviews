@@ -138,11 +138,3 @@ Or:
 ## 📜 License
 
 This project is intended for educational use. No license restrictions applied.
-
----
-
-## 🙋‍♂️ Author
-
-Made with ❤️ for academic practice by [Your Name Here].
-
-Feel free to fork or contribute!
